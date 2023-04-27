@@ -27,6 +27,7 @@ conda documentation says all the programs that you want in an environment should
 
 ### Data
 
+Titanic dataset - `titanic.csv`
 
 
 ### Citataion
