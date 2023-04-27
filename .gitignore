@@ -1,3 +1,9 @@
+# ignore model, data and hidden files
+.DS_Store
+data/
+artefacts/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
